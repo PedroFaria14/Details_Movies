@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Projeto pessoal de um site dedicado ao universo cinematográfico, oferecendo aos usuários a possibilidade de pesquisar e descobrir os melhores filmes. Para construir essa plataforma, utilizei as tecnologias JavaScript e React, integrando-a à API do TMDb (The Movie Database).
